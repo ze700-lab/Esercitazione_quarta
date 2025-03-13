@@ -1,4 +1,4 @@
-# Esercitazione per classe 4 ITI dell'Istituto Salesiano Don Bosco di Verona
+# Esercitazione per classe 4 ITI 
 ## Tecnologie e progettazione di sistemi informatici e di telecomunicazioni
 ### A4 - Gestione e documentazione del codice
 ### Gestione delle versioni del codice sorgente con Git
